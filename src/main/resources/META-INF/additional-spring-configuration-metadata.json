@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "app.couchbase.connection-string",
+    "type": "java.lang.String",
+    "description": "Couchbase application connection string"
+  },
+  {
+    "name": "app.couchbase.username",
+    "type": "java.lang.String",
+    "description": "Couchbase application username"
+  },
+  {
+    "name": "app.couchbase.password",
+    "type": "java.lang.String",
+    "description": "Couchbase application password"
+  },
+  {
+    "name": "app.couchbase.bucket-todo",
+    "type": "java.lang.String",
+    "description": "Couchbase application todo bucket"
+  },
+  {
+    "name": "app.couchbase.bucket-user",
+    "type": "java.lang.String",
+    "description": "Couchbase application user bucket"
+  },
+  {
+    "name": "app.jwt-secret",
+    "type": "java.lang.String",
+    "description": "Application jwt secret key"
+  },
+  {
+    "name": "app.jwt-expiration",
+    "type": "java.lang.String",
+    "description": "Application jwt expiration time"
+  }
+]}
