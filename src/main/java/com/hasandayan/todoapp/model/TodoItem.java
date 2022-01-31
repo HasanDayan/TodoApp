@@ -23,6 +23,7 @@ public class TodoItem {
 	private String userId;
 
 	public TodoItem() {
+
 	}
 
 	public TodoItem(String id, String content, boolean active, String userId) {
